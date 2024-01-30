@@ -19,8 +19,16 @@ FlappyBird Multiplayer is an interactive, real-time multiplayer version of the p
  [...]
 
 ## Lessons Learned
+[-Drawing canvas]
+[-Working with sprites]
+[-Google one tap sign-in with firebase]
 [....]
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
+
+https://github.com/LarsCirco/HippieHippoBird/assets/122366416/99f21c35-5350-49bc-9410-7b95606a0c27
 
